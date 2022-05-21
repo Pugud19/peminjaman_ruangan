@@ -2,7 +2,7 @@
 
 <sub>This website is built for rent a room in some company that RBAC and RDBMS using PHP Language and Database MariDB. If you interest of this project you can use this free</sub>
 
-** you can clone this project and use it **
+__you can clone this project and use it__
 ```
 git@github.com:Pugud19/peminjaman_ruangan.git
 or
